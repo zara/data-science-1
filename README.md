@@ -1,2 +1,2 @@
 # data-science-1
-data science homework 1
+data science with python homework 01
